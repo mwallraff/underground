@@ -2,6 +2,12 @@
 
 *(The Mahindra United World College of India)*
 
-* **Address:** This information is not being disclosed because of security reasons.
+The food in the cafeteria is fine. But weird proposals are being made to remove meat on mondays. 
 
-Situated on top of a hill making it a good place to set up research labs and do some underground developement (possibly weapon developement). This place is isolated from most of humanity and has access to basic facilities like internet, water and food.
+**Address**
+
+Village Khubavali, PO Paud
+
+Taluka Mulshi, Pune,
+
+MH 412 108, India
