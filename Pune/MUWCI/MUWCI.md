@@ -1,6 +1,5 @@
 # MUWCI
-
-*(The Mahindra United World College of India)*
+![MUWCI, the valley and a lot of green](http://uwcmahindracollege.org/themes/site_themes/uwc/content_images/slide01.jpg)
 
 The food in the cafeteria is fine. But weird proposals are being made to remove meat on mondays. 
 
@@ -13,5 +12,3 @@ Taluka Mulshi, Pune,
 MH 412 108, India
 
 [http://www.uwcmahindracollege.org/](Link to Website)
-
-![MUWCI, the valley and a lot of green](http://uwcmahindracollege.org/themes/site_themes/uwc/content_images/slide01.jpg)
