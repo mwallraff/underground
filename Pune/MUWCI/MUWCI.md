@@ -11,4 +11,4 @@ Taluka Mulshi, Pune,
 
 MH 412 108, India
 
-[http://www.uwcmahindracollege.org/](Link to Website)
+[Link to website](http://www.uwcmahindracollege.org/)
